@@ -1,3 +1,4 @@
+%Last tested on Matlab R2022a and Windows 10
 %running this script should replicate the TMT1->TMT2 analysis in Fig. 4E
 
 load('ExampleData.mat');
